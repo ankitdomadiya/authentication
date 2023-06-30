@@ -1,0 +1,32 @@
+{
+  "user": [
+    {
+      "id": "ankit",
+      "name": "ankit",
+      "password": "ankit",
+      "email": "ankit@gmail.com",
+      "gender": "male",
+      "role": "admin",
+      "isactive": true
+    },
+    {
+      "id": "Hello",
+      "name": "helo",
+      "password": "Helo@123.",
+      "email": "helo@gmail.com",
+      "gender": "male",
+      "role": "staff",
+      "isactive": true
+    }
+  ],
+  "role": [
+    {
+      "code": "staff",
+      "name": "Staff"
+    },
+    {
+      "code": "quality",
+      "name": "Quality"
+    }
+  ]
+}
